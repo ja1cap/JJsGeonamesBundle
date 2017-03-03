@@ -7,6 +7,11 @@
         {
             "name": "Josiah",
             "email": "josiah@jjs.id.au"
+        },
+        {
+            "name": "ja1cap",
+            "email": "ja1cap@weasty.com",
+            "homepage": "https://www.weasty.com"
         }
     ],
     "autoload": {
@@ -15,7 +20,6 @@
     "target-dir": "JJs/Bundle/GeonamesBundle",
     "minimum-stability": "dev",
     "require": {
-        "php": "~5.4",
         "guzzle/http": "~3.5",
         "weasty/jjs-common": "~v1.0",
         "symfony/framework-bundle": "~2.1"
